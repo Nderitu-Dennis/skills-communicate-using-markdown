@@ -6,3 +6,5 @@
 ###### heading 6
 
 headings using markdown
+# _Adding an image_
+![this is an image](https://octodex.github.com/images/yaktocat.png)
