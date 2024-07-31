@@ -19,4 +19,8 @@ String name="maz";
 ``` javascript
 var myVar="Hello World!";
 ```
+# _creating a task list_
+- [ ] task list one
+- [ ] task list two
+- [x] task liost 3-this is checked!!
 
