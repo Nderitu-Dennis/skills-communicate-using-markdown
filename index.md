@@ -8,3 +8,15 @@
 headings using markdown
 # _Adding an image_
 ![this is an image](https://octodex.github.com/images/yaktocat.png)
+
+*adding a code example*
+
+``` java
+String name="maz";
+```
+
+
+``` javascript
+var myVar="Hello World!";
+```
+
